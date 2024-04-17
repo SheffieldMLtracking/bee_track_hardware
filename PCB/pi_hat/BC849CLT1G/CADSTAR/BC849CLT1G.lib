@@ -1,0 +1,16 @@
+.BC849CLT1G :1 ;NPN Bipolar Transistor
+SOT96P237X111-3N
+*STM Q
+*NGS
+*PLB 1="B" 2="E" 3="C"
+*MXP 3
+*DFN BC849CLT1G
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (BC849CLT1G)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/BC846ALT1-D.PDF)
+~!Height (1.11mm)
+~!3D_Model (BC849CLT1G)
+BC849CLT1G
+1.1!U 2.1!U 3.1!U 

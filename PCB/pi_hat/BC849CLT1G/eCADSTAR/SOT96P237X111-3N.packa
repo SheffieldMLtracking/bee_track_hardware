@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BC849CLT1G"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-03-08-16:29:51)
+    (mountForm default
+        (footprintRef "SOT96P237X111-3N")
+        (spec "System")
+    )
+)

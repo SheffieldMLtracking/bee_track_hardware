@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BC849CLT1G
+#/739625/1373427/2.50/3/2/Transistor BJT NPN
+DEF BC849CLT1G Q 0 30 Y Y 1 F N
+F0 "Q" 550 50 50 H V L CNN
+F1 "BC849CLT1G" 550 -50 50 H V L CNN
+F2 "SOT96P237X111-3N" 550 -150 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/BC846ALT1-D.PDF" 550 -250 50 H I L CNN
+F4 "NPN Bipolar Transistor" 550 -350 50 H I L CNN "Description"
+F5 "1.11" 550 -450 50 H I L CNN "Height"
+F6 "" 550 -550 50 H I L CNN "Farnell Part Number"
+F7 "" 550 -650 50 H I L CNN "Farnell Price/Stock"
+F8 "onsemi" 550 -750 50 H I L CNN "Manufacturer_Name"
+F9 "BC849CLT1G" 550 -850 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 -300 100 U 50 50 0 0 P
+X ~ 3 400 300 100 D 50 50 0 0 P
+P 2 0 1 20 300 100 300 -100 N
+P 2 0 1 6 300 50 400 150 N
+P 2 0 1 6 300 -50 400 -150 N
+P 2 0 1 6 400 -150 400 -200 N
+P 2 0 1 6 400 150 400 200 N
+P 2 0 1 6 100 0 300 0 N
+C 350 0 158 0 1 10 N
+P 4 0 1 10 330 -100 350 -80 370 -120 330 -100 F
+ENDDRAW
+ENDDEF
+#
+#End Library

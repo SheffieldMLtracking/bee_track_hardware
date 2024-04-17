@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BC849CLT1G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "BC849CLT1G" (!) = "", "SOT96P237X111-3N", "SOT23 (3-Pin)", "", "", "NPN Bipolar Transistor", "http://www.onsemi.com/pub/Collateral/BC846ALT1-D.PDF", "1.11 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP3008-I/SL
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=4.1
+Released=2016-03-23 11:47:36
+Downloaded=2024-04-15 21:35:56
+3D=Y

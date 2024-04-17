@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=BC849CLT1G
+PartCategory=Transistor BJT NPN
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=3.2
+Released=2018-02-23 11:37:55
+Downloaded=2024-04-15 17:19:12
+3D=Y
