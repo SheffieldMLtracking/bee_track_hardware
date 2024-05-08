@@ -79,6 +79,15 @@ To Do
 ## More Nuts and Bolts
 To Do
 
+## External Power Supply Regulator
+To Do
+
+## External Power Socket
+To Do
+
+## Field Trial External Batteries
+To Do
+
 ## Washers for hotshoes [done]
 20mm outside, M4.
 zinc plated steel
