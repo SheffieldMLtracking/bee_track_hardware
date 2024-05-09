@@ -80,15 +80,20 @@ To Do
 To Do
 
 ## External Power Supply Regulator
-To Do
+Order 6 of these <https://www.amazon.co.uk/dp/B0823DB3W3?psc=1&smid=AFNZSIWHYJJRZ&ref_=chk_typ_imgToDp>.
 
 ## External Power Socket
-To Do
+Ordered 15.
+<https://www.amazon.co.uk/dp/B0CH7WX85X>
 
 ## Field Trial External Batteries
 To Do
 
+## 3.5mm right-angle connectors
+Ordered these <https://www.ebay.co.uk/itm/183758840967> (12 ordered = 24 connectors, 6 needed per unit, so 4 units).
+
 ## Washers for hotshoes [done]
+This might not be the design afterall!
 20mm outside, M4.
 zinc plated steel
 <https://www.bolts.co.uk/m4-x-20mm-repair-penny-washer-bzp-pack-of-500-p-FWRMZP04020/>
